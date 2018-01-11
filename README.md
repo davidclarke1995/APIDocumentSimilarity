@@ -1,8 +1,15 @@
 # APIDocumentSimilarity
 
+My name is David Clarke, I am a 3rd year Software Development student in GMIT.
+
 I am required to develop a Java API that can rapidly compare two large text files by computing their Jaccard Index. The API should uphold the principles of loose-coupling and high cohesion throughout its design by correctly applying abstraction, encapsulation, composition and inheritance.
 
 To run this program, click on the green arrow button called "run" while in the runner class. Once the code compiles the system will ask the the user to enter the first document name followed by the second. If the user makes a spelling mistake on EITHER document names then the system will tell the user that it doesn't have a file of that name on the machine. If the user successfully enters two correct document names then the sytem will produce the MinHash approximation of the jaccard index for the two documents.
+
+I have included with this project, commented code and a full UML Diagram for visual effect.
+
+
+
 
 
 referrences: 
