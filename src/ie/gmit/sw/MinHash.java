@@ -45,7 +45,7 @@ public class MinHash{
 					min = minhash;
 				}
 			}
-			//
+			//shingles
 			shingles.add(min);
 		}
 		//return set of minHashes
